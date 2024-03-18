@@ -1,2 +1,4 @@
 # NCCATour24
-Predicting NCAA tournament
+Attempting to predict the NCAA tournamet using a random forest model. It doesn't do a sim so it doesn't know who is playing who. The predictions are a mix of a random forest with a max depth of 5 and 250 trees. The stats used can be seen in the cleaing file, I'll list them here but just trying to get this up. The obvious erros with this model seems to be that teams have a better chance of winning the tournament than making that final four or elite eight. I beleive this comes from what Ken Barkely always says only a few teams can win but almost anyone can win 4. Since this model doesn't do a sim it doens't know its a tournament so its givig a lot of teams a chance to go far so the probablites are off. I would look at those columns for the order they are in not the probablites or odds and use that for your brackets or bets or whatever.
+
+[NewT.csv](https://github.com/dlshew/NCCATour24/files/14629521/NewT.csv)
