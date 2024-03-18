@@ -1,8 +1,10 @@
-[NewT.csv](https://github.com/dlshew/NCCATour24/files/14629843/NewT.csv)# NCCATour24
+# NCCATour24
 Attempting to predict the NCAA tournamet using a random forest model. It doesn't do a sim so it doesn't know who is playing who. The predictions are a mix of a random forest with a max depth of 5 and 250 trees. The stats used can be seen in the cleaing file, I'll list them here but just trying to get this up.
 
 
-[UpTeam,Champ,FinalF,EliteE,ChampOdds,FinalFOdds,EliteEOdds
+
+[NewT.csv](https://github.com/dlshew/NCCATour24/files/14629852/NewT.csv)
+Team,Champ,FinalF,EliteE,ChampOdds,FinalFOdds,EliteEOdds
 Connecticut,0.306,0.403,0.787,3.2642491541598,2.4813895781637716,1.2706480304955527
 Purdue,0.184,0.25,0.499,5.44805617896185,4.0,2.004008016032064
 North Carolina,0.0,0.033,0.08499999999999999,Inf,30.3030303030303,11.764705882352942
@@ -71,4 +73,3 @@ Grambling St.,0.0,0.002,0.003,Inf,500.0,333.3333333333333
 Duquesne,0.0,0.002,0.003,Inf,500.0,333.3333333333333
 Colgate,0.0,0.004,0.004,Inf,250.0,250.0
 Akron,0.0,0.003,0.003,Inf,333.3333333333333,333.3333333333333
-loading NewT.csv…]()
